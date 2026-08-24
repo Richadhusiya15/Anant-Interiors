@@ -1,0 +1,25 @@
+Project: Anant Interiors
+
+Anant Interiors is a one-page responsive website for an interior design studio based in Jaipur.
+
+Technologies used:
+HTML
+CSS
+JavaScript
+
+Sections:
+Hero
+Services
+Project Gallery
+About
+Contact
+Footer
+
+Features:
+Responsive design
+WhatsApp click-to-chat enquiry
+Project gallery
+Mobile-friendly layout
+
+Hosting:
+GitHub Pages
