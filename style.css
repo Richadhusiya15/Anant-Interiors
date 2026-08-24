@@ -504,7 +504,7 @@ a {
     }
 }
 @media (max-width: 850px) {
-    .nav.active {
+   .nav.active {
         display: flex;
         position: absolute;
         top: 65px;
@@ -512,11 +512,12 @@ a {
         flex-direction: column;
         gap: 0;
         padding: 15px 20px;
-        background: #f7f5f0;
+        background: rgba(24, 22, 19, 0.95);
         color: #26231f;
         box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
         min-width: 180px;
     }
+
 
     .nav.active a {
         padding: 10px 5px;
